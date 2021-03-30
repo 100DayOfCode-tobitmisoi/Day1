@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-visit (tobitmisoi)[https://tobitmisoi.com]
+visit [tobitmisoi](https://tobitmisoi.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
